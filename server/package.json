@@ -13,6 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "apollo-server-express": "^3.6.1",
+    "auth-middleware": "^1.0.0",
+    "authentication-middleware": "^2.1.0",
     "bcrypt": "^4.0.1",
     "express": "^4.17.1",
     "faker": "^4.1.0",
